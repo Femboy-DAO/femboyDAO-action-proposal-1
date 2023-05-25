@@ -1,4 +1,4 @@
-# femboyDAO action proposal draft
+# hire Rachel as Project Manager femboyDAO action proposal draft
 
 ---
 ```
@@ -85,6 +85,23 @@ Include technical documentation if necessary. -->
 - grant rachel permission to manage/delegate/hire other femboydao contributors^
 - grant rachel permission to plan budgets including but not limited to; advertising, promotion^
 - grant rachel permission to solicit for partnerships & collaborations with other web3 projects on behalf of femboyDAO, (decisions subject to governance approval).^
+
+### Compensation Requested - “here's how much I cost” (pre-negotiated)
+
+20 remote work hours per week, marked in public timesheet for review here.
+- Approval for 10 additional flex hours per week, if necessary for project completion/crunch.
+$30/hour - paid in ETH* to this address -> 0x5A094939b4a2110DCF5F0159e0b303732Bd553dD
+- *ETH price at time of payment is sufficient.*
+Council will review timesheet & make payments once per month.
+Council accepts responsibility to organize review process amongst themselves.
+Record transaction_id or etherscan link. Share with Rachel via email or DM.
+- *optional: use request.finance for payments.*
+
+Compensation should be restructured when future funding levels can be better estimated.
+Would likely include large changes to time and management expectations, as determined by Project Manager and approved by council / voters. (eg. more hours per week might be needed if community is more active, etc)
+
+title “Project Manager @ femboyDAO”
+- Permitted to socially associate with DAO publicly eg. social media bio, + writing threads, resume
 
 ### Test Cases
 
