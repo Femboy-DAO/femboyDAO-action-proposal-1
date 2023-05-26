@@ -33,6 +33,11 @@ TLDR: hire Rachel as Project Manager
 
 Elect rachelg.eth / @bruleeshark / @rachelgdoteth to be femboyDAO Project Manager and serve as a general overseer of business activities, including but not limited to primary authorship of new proposals, community moderation, femboyDAO team management and recruiting, etc.
 
+## Background
+Last November, a [governance proposal was passed](https://www.tally.xyz/gov/femboy-dao/proposal/65052743183220648491770929723137116040374021417102756972338666238749249176937) to hire Scuffie as project manager for FemboyDAO. That proposal authorized the council to pay Scuffie for his role and to make 15 ETH available to him as an initial project development budget. As scuffie left shortly afterwards, the council still has the ETH transferred to it by the DAO. The council's gnosis safe currently has 16.5 ETH and 8,135 USDC.
+
+This proposal would authorize the council to instead use these funds to pay Rachel's salary and to provide her with a project development budget.
+
 ## Motivation
 
 <!--This is the problem statement. This is the *why* of the FAP. It should clearly explain *why* the current state of the protocol is inadequate.  It is critical that you explain *why* the change is needed, if the FAP proposes changing how something is calculated, you must address *why* the current calculation is innaccurate or wrong. This is not the place to describe how the FAP will address the issue!-->
